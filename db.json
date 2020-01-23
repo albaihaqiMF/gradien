@@ -1,24 +1,9 @@
 {
-"profile":[
-{"id":1,"username":"Daffie","password":"Keirle","email":"dkeirle0@columbia.edu"},
-{"id":2,"username":"Xymenes","password":"Hands","email":"xhands1@example.com"},
-{"id":3,"username":"Nike","password":"Winchurch","email":"nwinchurch2@jiathis.com"},
-{"id":4,"username":"Aloin","password":"Dillingstone","email":"adillingstone3@accuweather.com"},
-{"id":5,"username":"Dougie","password":"Ridgway","email":"dridgway4@senate.gov"},
-{"id":6,"username":"Wyndham","password":"Ingram","email":"wingram5@cocolog-nifty.com"},
-{"id":7,"username":"Alwyn","password":"Steart","email":"asteart6@rakuten.co.jp"},
-{"id":8,"username":"Cynthea","password":"Purves","email":"cpurves7@cnet.com"},
-{"id":9,"username":"Helene","password":"Taffrey","email":"htaffrey8@google.co.jp"},
-{"id":10,"username":"Emmey","password":"Von Hindenburg","email":"evonhindenburg9@livejournal.com"},
-{"id":11,"username":"Dacy","password":"Lawn","email":"dlawna@mozilla.org"},
-{"id":12,"username":"Cordie","password":"Bonhill","email":"cbonhillb@yahoo.com"},
-{"id":13,"username":"Adolph","password":"Greatreax","email":"agreatreaxc@bbb.org"},
-{"id":14,"username":"Corrie","password":"Perassi","email":"cperassid@twitpic.com"},
-{"id":15,"username":"Emory","password":"Oscroft","email":"eoscrofte@eventbrite.com"},
-{"id":16,"username":"Kendricks","password":"Gregoraci","email":"kgregoracif@yellowbook.com"},
-{"id":17,"username":"Shae","password":"Screwton","email":"sscrewtong@telegraph.co.uk"},
-{"id":18,"username":"Miguel","password":"Greves","email":"mgrevesh@nasa.gov"},
-{"id":19,"username":"Drucill","password":"Newsome","email":"dnewsomei@eepurl.com"},
-{"id":20,"username":"Clement","password":"Ianniello","email":"ciannielloj@nhs.uk"}
-]
+"login":[
+    {"id":1,"username":"Muhammad Fahmi Albaihaqi","password":"fahmi1234","email":"dkeirle0@columbia.edu"},
+    {"id":2,"username":"Rizky Yulianto","password":"yantoaja","email":"yanto.best@columbia.edu"},
+  ]
+"signup":[
+    {"id":1,"username":"Muhammad Fahmi Albaihaqi","password":"fahmi1234","email":"dkeirle0@columbia.edu"}
+  ]
 }
