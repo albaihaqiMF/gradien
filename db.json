@@ -2,8 +2,8 @@
 "login":[
     {"id":1,"username":"Muhammad Fahmi Albaihaqi","password":"fahmi1234","email":"dkeirle0@columbia.edu"},
     {"id":2,"username":"Rizky Yulianto","password":"yantoaja","email":"yanto.best@columbia.edu"},
-  ]
-"signup" : [
+  ];
+"signup":[
     {"id":1,"username":"Muhammad Fahmi Albaihaqi","password":"fahmi1234","email":"dkeirle0@columbia.edu"}
   ]
 }
