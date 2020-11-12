@@ -1,33 +1,15 @@
 {
 projects:[{
   "id": 1,
-  "Project": "Lamb - Whole, Fresh",
-  "project_manager": "Franciskus Strewthers",
-  "detail": "Hope College",
-  "dateOfStart": "10/30/2020"
+  "Project": "GradienApps",
+  "project_manager": "Nanda Kista",
+  "detail": "Aplikasi berbasis mobile yang dapat memantau kinerja member gradien yang sedang melakukan progress di rumah(Wrok From Home)",
+  "dateOfStart": "30 September 2020"
 }, {
   "id": 2,
-  "Project": "Wine - Kwv Chenin Blanc South",
-  "project_manager": "Roger Elner",
-  "detail": "West Visayas State University",
-  "dateOfStart": "4/15/2020"
-}, {
-  "id": 3,
-  "Project": "Chicken - Whole",
-  "project_manager": "Blinnie Arnison",
-  "detail": "Skrjabin Moscow State Academy of Veterinary Medicine and Biotechnology",
-  "dateOfStart": "4/2/2020"
-}, {
-  "id": 4,
-  "Project": "Mushroom - Morels, Dry",
-  "project_manager": "Vivianne De Rye Barrett",
-  "detail": "American University of Hawaii, Punjab Campus",
-  "dateOfStart": "11/13/2019"
-}, {
-  "id": 5,
-  "Project": "Shrimp - 16 - 20 Cooked, Peeled",
-  "project_manager": "Lockwood Vynoll",
-  "detail": "Université Protestante au Congo",
-  "dateOfStart": "7/24/2020"
+  "Project": "Job Connector",
+  "project_manager": "Khoirul Anam",
+  "detail": "Aplikasi berbasis web untuk menghubungkan pelamar kerja dengan perusahaan",
+  "dateOfStart": "18 Juli 2019"
 }]
 }
